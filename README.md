@@ -25,5 +25,4 @@ Integrantes ;
               
               Luiz Felipe Barbosa Pereira
 
-  O software recomenda produtos aos usuários com base no histórico de compras, usando filtragem colaborativa, baseada em conteúdo e sistemas híbridos para garantir sugestões relevantes e variadas. Ele usa Hadoop e MapReduce para processar grandes volumes de dados, com armazenamento eficiente via HDFS. Técnicas de aprendizado de máquina ajustam as recomendações continuamente, e a exportação de dados facilita a gestão e compartilhamento de informações.
-              
+  O software realiza a análise de relatórios de consumo de um restaurante, permitindo aos usuários visualizar dados detalhados sobre pratos mais vendidos, total de receita e lucro por período. Ele oferece uma interface intuitiva para selecionar intervalos específicos através da biblioteca tkinter e pandas (como meses individuais ou visão geral), exibindo os resultados em gráficos de fácil compreensão. Além disso, permite exportar essas análises para formatos CSV e JSON, garantindo praticidade no armazenamento e compartilhamento das informações. A funcionalidade de login seguro com hash de senhas e recuperação de acesso por e-mail também contribui para um ambiente seguro e personalizado para cada usuário.
