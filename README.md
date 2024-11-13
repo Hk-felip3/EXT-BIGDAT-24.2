@@ -1,4 +1,4 @@
-Faculdade Ideal - Faci Wyden
+Faculdade Ideal - Faci Wyden              BELÉM-PARÁ
       
 Curso - Ciencia Computação 2024.2;
 
